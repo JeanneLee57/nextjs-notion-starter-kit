@@ -94,17 +94,17 @@
 }
 
 .github .actionBgPane {
-  background: #c9510c;
+  background: rgb(31, 35, 40);
 }
 .github:hover {
-  border-color: #c9510c;
+  border-color: rgb(31, 35, 40);
 }
 
 .youtube .actionBgPane {
-  background: #FF0000;
+  background: #ff0000;
 }
 .youtube:hover {
-  border-color: #FF0000;
+  border-color: #ff0000;
 }
 
 .medium .actionBgPane {
@@ -126,6 +126,10 @@
 }
 .email:hover {
   border-color: #777;
+}
+
+.tistory .actionBgPane {
+  background: #ff5544;
 }
 
 @media only screen and (max-width: 768px) {
