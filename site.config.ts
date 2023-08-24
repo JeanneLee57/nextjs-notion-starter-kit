@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Jeanne의 포트폴리오 페이지',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'jeanne-portfolio.vercel.app',
   author: '이진화(Jeanne)',
 
   // open graph metadata (optional)
